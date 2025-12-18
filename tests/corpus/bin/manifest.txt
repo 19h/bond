@@ -1,0 +1,13 @@
+# Bond Corpus Manifest
+# Generated: Thu Dec 18 18:35:11 CET 2025
+
+# Training binaries (for HTM learning)
+/models/dev/bond/tests/corpus/bin/train_control
+/models/dev/bond/tests/corpus/bin/train_functions
+/models/dev/bond/tests/corpus/bin/train_loops
+/models/dev/bond/tests/corpus/bin/train_math
+/models/dev/bond/tests/corpus/bin/train_strings
+
+# Test binaries (for pattern detection)
+/models/dev/bond/tests/corpus/bin/test_mixed
+/models/dev/bond/tests/corpus/bin/test_novel
